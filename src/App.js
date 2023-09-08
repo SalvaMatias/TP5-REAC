@@ -1,4 +1,8 @@
 import "./styles.css";
+import Header from "./Header.js";
+import Formulario from "./Formulario.js";
+import Tabla from "./Tabla.js";
+import Footer from "Footer.js";
 
 export default function App() {
   return (
